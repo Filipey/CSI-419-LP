@@ -1,0 +1,5 @@
+1- Faça um programa em prolog que inverta uma lista.
+2- Faça um programa em prolog que verifique se uma lista é um subconjunto de outra lista. 
+3- Faça um programa em prolog que retorne o elemento k de uma lista.
+4- Faça um programa em prolog que retorne o número de elementos de uma lista.
+5- Faça um programa em prolog que elimina as duplicatas de uma lista.
