@@ -1,0 +1,5 @@
+-- Faça uma função que converta um número em base decimal para binário. Depois aplique a função desenvolvida em uma lista
+-- decimalToBinary ::  Integer -> Integer
+-- decimalToBinary x
+--   | mod x 10 == 0 = 1 : decimalToBinary (x / 10)
+--   | otherwise = decimalToBinary
